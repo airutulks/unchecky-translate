@@ -1,4 +1,3 @@
-
 IDS_OFFER_REJECTED      "A potentially unwanted program offer was rejected!"
 IDS_SOME_OFFERS_REJECTED 
                         "%d potentially unwanted program offers were rejected!"
